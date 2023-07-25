@@ -1,0 +1,50 @@
+body {
+  color: wheat;
+  background-image: url(https://images.pexels.com/photos/17379338/pexels-photo-17379338/free-photo-of-light-sea-dawn-landscape.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+h1 {
+  font-size: 20px;
+  color: #1667;
+}
+#btn {
+  width: 70px;
+  height: 20px;
+  background-color: #1667;
+  color: white;
+}
+header {
+  height: 10%;
+  border-color: white;
+  background-color: #5e95e4;
+  color: white;
+}
+footer {
+  height: 10%;
+  border-color: white;
+  background-color: #5e95e4;
+  color: white;
+}
+div {
+  height: 100%;
+  color: white;
+}
+td {
+  width: 90%;
+  border: solid;
+  color: #261;
+}
+thead {
+  border: solid;
+  color: #261;
+}
+th {
+  border: solid;
+}
+.Cities li {
+  font-style: italic;
+  color: #0ef047;
+}
+.city {
+  font-size: 30px;
+  color: #0ef047;
+}
